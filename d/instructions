@@ -1,0 +1,9 @@
+Directions
+
+d)
+
+Create a bookmarking app where you can save URLs.
+It should have a form where you enter the URL, a title, and a "tag".
+There should be a list of all the URLs, as well as a list of all the tags (this should be generated dynamically from the link collection).
+When you click on a tag, the URL list should show only those tags.
+Hint: which tag is selected is "application state".
